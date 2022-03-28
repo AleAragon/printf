@@ -7,18 +7,22 @@ Prototype: int _printf(const char *, ...);
 
 ## String
 Input: _printf(&quot;%s\n&quot;, &#39;This is a string.&#39;);
+
 Output: This is a string.
 
 ## Character
 Input: _printf(&quot;The first letter in the alphabet is %c\n&quot;, &#39;A&#39;);
+
 Output: The first letter in the alphabet is A
 
 ## Integer
 Input: _printf(&quot;There are %i dozens in a gross\n&quot;, 12);
+
 Output: There are 12 dozens in a gross
 
 ## Decimal:
 Input: _printf(&quot;%d\n&quot;, 1000);
+
 Output: 1000
 
 # File Descriptions
