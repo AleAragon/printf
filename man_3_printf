@@ -28,9 +28,6 @@ The int argument is converted to an unsigned char, then the resulting character 
 .B s
 The const char * argument is expected to be a pointer to an array of character type (pointer to a string).
 .TP
-.B S
-Prints a string.
-.TP
 .B d, i
 The int argument is converted to signed decimal notation.
 .TP
